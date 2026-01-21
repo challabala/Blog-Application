@@ -6,10 +6,10 @@ The project demonstrates proper server-state management, clean UI components, an
 ---
 
 ## 🚀 Live Demo
-👉 https://your-live-demo-link.vercel.app
+👉 https://challabala-blogapp.netlify.app/
 
 ## 📂 GitHub Repository
-👉 https://github.com/your-username/camonk-interview
+👉 https://github.com/challabala/Blog-Application
 
 ---
 
@@ -46,10 +46,10 @@ src/
 ├── main.jsx
 └── index.css
 
+
 ---
 
 ## 🔌 API Endpoints
-
 - `GET /blogs`
 - `GET /blogs/:id`
 - `POST /blogs`
@@ -57,8 +57,9 @@ src/
 ---
 
 ## ⚙️ Setup
-
-git clone : 
+```bash
+git clone https://github.com/challabala/Blog-Application
+cd camonk-interview
 npm install
 npm run server
 npm run dev
